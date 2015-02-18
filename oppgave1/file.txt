@@ -3,12 +3,10 @@ Her kan du endre filer og deretter begå (commit) endringen.
 ==========================================================
 
 Skriv inn navnet ditt øverst i listen under:
-Christoffer Tønnessen
-Stian Jensen
-Iver Jordal
-Sigve Sebastian Farstad
-Péter Gombos
-Aleksander Vognlid Burkow
+Mike Litoris
+Robert Fagotte
+Chew Kook
+Jack Goff
 
 ==========================================================
 Se endringen din med (git diff).
